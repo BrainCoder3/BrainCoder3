@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Noe
 
-<!--
-**BrainCoder3/BrainCoder3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Student  
+💼 Tech Lead at Africa Research Center  
+💻 Developer at Axiane  
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Backend Development,
+Data Science and Data Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- ⚙️ Backend development with Python and Django
+- 📊 Data Science & Data Engineering
+- 🌐 Web Development
+- 🚀 Always building and learning new technologies
+
+## 🛠️ Technologies
+
+### Languages
+Python • JavaScript • TypeScript • SQL • Dart
+
+### Backend
+Django • Django REST Framework • REST APIs
+
+### Data & AI
+Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter
+
+### Tools
+Git • GitHub • Docker • Kafka • PostgreSQL
+
+## 🚀 Featured Projects
+
+- 🔐 SIEM & Big Data Project
+- 📊 Global AI Job Market Analysis
+- 🤖 Machine Learning Projects
+- 🌐 LearnCraft
+- ⚙️ SchoolGo Backend
+
+## 📫 Connect with Me
+
+- LinkedIn: ajoute ici ton lien LinkedIn
