@@ -4,30 +4,40 @@
 💼 Tech Lead at Africa Research Center  
 💻 Developer at Axiane  
 
-I'm passionate about Artificial Intelligence, Backend Development,
-Data Science and Data Engineering.
+I'm passionate about Artificial Intelligence, Full-Stack Development,
+Backend Engineering, Data Science and Automation.
 
 ## 👨‍💻 About Me
 
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- ⚙️ Backend development with Python and Django
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚙️ Backend development with Django, Node.js and Express
+- 🌐 Full-Stack development with Next.js
 - 📊 Data Science & Data Engineering
-- 🌐 Web Development
-- 🚀 Always building and learning new technologies
+- 🔄 Workflow automation with n8n
+- 🚀 Building scalable and practical software solutions
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 ### Languages
 Python • JavaScript • TypeScript • SQL • Dart
 
+### Frontend
+Next.js • React • HTML • CSS • Advanced JavaScript
+
 ### Backend
-Django • Django REST Framework • REST APIs
+Django • Django REST Framework • Node.js • Express.js • REST APIs
 
 ### Data & AI
 Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter
 
-### Tools
-Git • GitHub • Docker • Kafka • PostgreSQL
+### Automation
+n8n • API Integrations • Workflow Automation
+
+### Databases
+PostgreSQL • SQL
+
+### Dev Tools
+Git • GitHub • Docker • Kafka
 
 ## 🚀 Featured Projects
 
@@ -36,7 +46,9 @@ Git • GitHub • Docker • Kafka • PostgreSQL
 - 🤖 Machine Learning Projects
 - 🌐 LearnCraft
 - ⚙️ SchoolGo Backend
+- 🔄 Automation & API Projects
 
 ## 📫 Connect with Me
 
-- LinkedIn: ajoute ici ton lien LinkedIn
+- LinkedIn: ton lien
+- GitHub: https://github.com/BrainCoder3
