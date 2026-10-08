@@ -1,54 +1,88 @@
 # Hi 👋, I'm Noe
 
-🎓 AI Engineering Student  
+🎓 Big Data & AI Engineering Student  
 💼 Tech Lead at Africa Research Center  
-💻 Developer at Axiane  
+💻 AI / Backend Developer  
 
-I'm passionate about Artificial Intelligence, Full-Stack Development,
-Backend Engineering, Data Science and Automation.
+I'm interested in building intelligent systems from first principles and turning
+machine learning ideas into practical software.
+
+My current focus is **Deep Learning, NLP, Computer Vision and AI Engineering**.
 
 ## 👨‍💻 About Me
 
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚙️ Backend development with Django, Node.js and Express
-- 🌐 Full-Stack development with Next.js
+- 🧠 Deep Learning, Machine Learning & Artificial Intelligence
+- 👁️ Computer Vision and video understanding
+- 🗣️ NLP, Transformers and Speech AI
+- ⚙️ Backend engineering with Django and REST APIs
 - 📊 Data Science & Data Engineering
-- 🔄 Workflow automation with n8n
-- 🚀 Building scalable and practical software solutions
+- 🔄 Automation and API integrations
+- 🚀 Building practical AI-powered products
 
 ## 🛠️ Tech Stack
 
-### Languages
-Python • JavaScript • TypeScript • SQL • Dart
+### AI & Deep Learning
+PyTorch • Hugging Face Transformers • Scikit-learn • OpenCV
 
-### Frontend
-Next.js • React • HTML • CSS • Advanced JavaScript
+### Data
+Pandas • NumPy • Matplotlib • Jupyter • SQL
 
 ### Backend
 Django • Django REST Framework • Node.js • Express.js • REST APIs
 
-### Data & AI
-Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter
-
-### Automation
-n8n • API Integrations • Workflow Automation
+### Frontend
+Next.js • React • TypeScript • JavaScript • HTML • CSS
 
 ### Databases
 PostgreSQL • SQL
 
-### Dev Tools
-Git • GitHub • Docker • Kafka
+### Automation & Tools
+n8n • Git • GitHub • API Integrations
 
-## 🚀 Featured Projects
+## 🚀 Featured AI Projects
+
+### 🎥 Human Action Recognition from Scratch
+**PyTorch • OpenCV • 3D CNN • Computer Vision**
+
+Built and trained a 3D CNN from scratch on the KTH Human Actions dataset using
+the official subject-wise evaluation protocol.
+
+- RGB baseline: **70.5% test accuracy**
+- RGB + motion features: **84.7% test accuracy**
+- Improved performance by **+14.2 percentage points**
+- Analyzed class-level errors using confusion matrices
+
+🔗 [View project](https://github.com/BrainCoder3/human-action-recognition-3dcnn)
+
+### 🗣️ Whisper Robustness to Synthetic Noise
+**PyTorch • Hugging Face • ASR • Deep Learning**
+
+Built a reproducible evaluation pipeline for Whisper-small under controlled
+Gaussian noise conditions.
+
+- Evaluated robustness across multiple SNR levels
+- Measured WER and CER degradation
+- Analyzed catastrophic autoregressive decoding failures
+- Studied model behavior under noisy speech conditions
+
+🔗 [View project](https://github.com/BrainCoder3/Whisper-Robustness-to-Synthetic-Noise)
+
+## 💻 Other Projects
 
 - 🔐 SIEM & Big Data Project
 - 📊 Global AI Job Market Analysis
-- 🤖 Machine Learning Projects
 - 🌐 LearnCraft
 - ⚙️ SchoolGo Backend
 - 🔄 Automation & API Projects
 
+## 🎯 Currently Learning
+
+- Transformers from first principles
+- Deep Learning architectures
+- NLP and Large Language Models
+- AI Engineering and model evaluation
+
 ## 📫 Connect with Me
 
-- LinkedIn: ton lien
 - GitHub: https://github.com/BrainCoder3
+- LinkedIn: [Add your LinkedIn URL]
