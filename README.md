@@ -148,4 +148,5 @@ I am currently strengthening my foundations in deep learning by implementing arc
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/BrainCoder3
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/no%C3%A9-soulama-32b1663b4/?isSelfProfile=true
+  
