@@ -2,7 +2,7 @@
 
 🎓 Big Data & AI Engineering Student  
 💼 Tech Lead at Africa Research Center  
-💻 AI / Backend Developer  
+💻 AI / full-stack Developer  
 
 I build intelligent systems from first principles and turn machine learning ideas into practical and reproducible software.
 
